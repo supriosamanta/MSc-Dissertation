@@ -44,4 +44,4 @@ This project explores the development of a wearable haptic feedback system using
 - Replace relays with solid-state switching modules for high-frequency activation.
 
 ## 📬 Contact
-For collaboration or questions, reach out via [LinkedIn](https://www.linkedin.com/in/samanta-suprio-sujoy/) or GitHub Issues.
+For collaboration or questions, reach out via [LinkedIn](https://www.linkedin.com/in/samanta-suprio-6891441b1/) or GitHub Issues.
