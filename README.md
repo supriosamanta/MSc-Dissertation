@@ -50,7 +50,7 @@ A 6-axis load cell sensor was used to measure the forces and torques generated b
 - Arduino nano sensing force on the gripper.
 
 ### Photos from the setup:
-![Experimental Setup](./images/franka setup.png)
+![Experimental Setup](./images/franka_setup.png)
 
 ---
 ## 📊 Results
