@@ -20,7 +20,9 @@ The fluid flow and viscosity control are modeled using:
 - **Hagen–Poiseuille law** (for Newtonian behavior under no magnetic field)
 - **Herschel–Bulkley model** (for post-yield, non-Newtonian behavior under magnetic activation)
 
-![Prototype Image](./images/block diagram.png)
+![Prototype Image](./images/block_diagram.png)
+
+![Haptic Device conceptual design](./images/haptic_device_conceptual_design.png)
 
 ---
 
