@@ -36,7 +36,6 @@ This project explores the development of a wearable haptic feedback system using
 ## 📂 Files
 - [`ACS6200-Thesis.pdf`](./thesis/ACS6200-Thesis.pdf): Full thesis document.
 - [`Project_outline.pptx`](./assets/Project_outline.pptx): Summarized presentation slides.
-- [`/scripts`](./scripts): Contains Arduino code for control and data logging.
 
 ## 🔮 Future Work
 - Integrate variable magnetic field control.
