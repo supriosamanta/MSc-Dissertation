@@ -70,7 +70,7 @@ A 6-axis load cell sensor was used to measure the forces and torques generated b
 ![Torque Response Graph](./images/Torque_600.png)
 
 ### Haptic activation time:- 2.5Hz
-![Torque Response Graph](./images/Torque_400.png)
+![Torque Response Graph](./images/torque_400.png)
 
 ### FSR Response from the gripping task
 ![FSR Response](./images/FSR_50.png)
